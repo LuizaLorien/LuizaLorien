@@ -2,7 +2,7 @@
 - 👀 I’m interested in games
 - 🌱 I’m currently learning T.I
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: luizalorien@gmail.com
 
 <!---
 LuizaLorien/LuizaLorien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
